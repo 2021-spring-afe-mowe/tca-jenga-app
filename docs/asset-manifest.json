@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tca-jenga-app/static/css/main.8cd9aa8a.chunk.css",
+    "main.js": "/tca-jenga-app/static/js/main.5595b12b.chunk.js",
+    "main.js.map": "/tca-jenga-app/static/js/main.5595b12b.chunk.js.map",
+    "runtime-main.js": "/tca-jenga-app/static/js/runtime-main.f0c48916.js",
+    "runtime-main.js.map": "/tca-jenga-app/static/js/runtime-main.f0c48916.js.map",
+    "static/js/2.ff6bc900.chunk.js": "/tca-jenga-app/static/js/2.ff6bc900.chunk.js",
+    "static/js/2.ff6bc900.chunk.js.map": "/tca-jenga-app/static/js/2.ff6bc900.chunk.js.map",
+    "static/js/3.152bd833.chunk.js": "/tca-jenga-app/static/js/3.152bd833.chunk.js",
+    "static/js/3.152bd833.chunk.js.map": "/tca-jenga-app/static/js/3.152bd833.chunk.js.map",
+    "index.html": "/tca-jenga-app/index.html",
+    "static/css/main.8cd9aa8a.chunk.css.map": "/tca-jenga-app/static/css/main.8cd9aa8a.chunk.css.map",
+    "static/js/2.ff6bc900.chunk.js.LICENSE.txt": "/tca-jenga-app/static/js/2.ff6bc900.chunk.js.LICENSE.txt",
+    "static/media/tower.25c97ff7.PNG": "/tca-jenga-app/static/media/tower.25c97ff7.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c48916.js",
+    "static/js/2.ff6bc900.chunk.js",
+    "static/css/main.8cd9aa8a.chunk.css",
+    "static/js/main.5595b12b.chunk.js"
+  ]
+}
